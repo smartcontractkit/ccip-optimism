@@ -1,5 +1,5 @@
 {
-  "name": "ccip-optimism",
+  "name": "@chainlink/ccip-optimism",
   "version": "1.0.0",
   "description": "Utility functions for optimism",
   "main": "dist/index.js",
